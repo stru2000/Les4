@@ -37,6 +37,27 @@ public class AnimalMain {
     private String name;
     private String gender;
 
+//    Structuur
+//
+//    Animals: abstract
+//    name / gender /
+//
+//    WildAnimals: abstract - extends allAnimals
+//    Lion amountOffspring - extends wildAnimals
+//    Tiger amountStripes - extends wildAnimals
+//    Wolf namePack - extends wildAnimals
+//
+//    enclosureName / dayLastFed / originCountry
+//
+//    PetAnimals: abstract - extends allAnimals
+//    Dog extends petAnimals
+//    Cat isIndoor - extends petdAnimals
+//
+//    nameOwner / favoriteFood / species
+//
+//
+//    methodes
+//    sleep() 8uur ,move() 0.25 meter ,eat(String food),abstract makeSound()
 
 
 }
