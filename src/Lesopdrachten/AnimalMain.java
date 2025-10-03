@@ -34,8 +34,7 @@ public class AnimalMain {
 
      */
 
-    private String name;
-    private String gender;
+
 
 //    Structuur
 //
@@ -51,7 +50,7 @@ public class AnimalMain {
 //
 //    PetAnimals: abstract - extends allAnimals
 //    Dog extends petAnimals
-//    Cat isIndoor - extends petdAnimals
+//    Cat isIndoor - extends petAnimals
 //
 //    nameOwner / favoriteFood / species
 //
