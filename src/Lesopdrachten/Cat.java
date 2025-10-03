@@ -1,4 +1,4 @@
 package Lesopdrachten;
 
-public class AnimalMain {
+public class Cat {
 }
