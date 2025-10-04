@@ -1,0 +1,1 @@
+https://github.com/hogeschoolnovi/backend-java-classes-inheritance
